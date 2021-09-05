@@ -1,2 +1,2 @@
 # stat-projects
-My educational projects of tatistics and analysis are here.
+My educational projects of statistics and analysis are here.
